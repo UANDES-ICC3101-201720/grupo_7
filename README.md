@@ -1,1 +1,2 @@
-# grupo_7
+# Proyecto-POO-Mall
+# Proyecto-POO-Mall
