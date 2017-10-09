@@ -1,0 +1,6 @@
+C:\Users\Ignacio\documents\visual studio 2017\Projects\ProyectoMall\ProyectoMall\bin\Debug\ProyectoMall.exe.config
+C:\Users\Ignacio\documents\visual studio 2017\Projects\ProyectoMall\ProyectoMall\bin\Debug\ProyectoMall.exe
+C:\Users\Ignacio\documents\visual studio 2017\Projects\ProyectoMall\ProyectoMall\bin\Debug\ProyectoMall.pdb
+C:\Users\Ignacio\documents\visual studio 2017\Projects\ProyectoMall\ProyectoMall\obj\Debug\ProyectoMall.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\documents\visual studio 2017\Projects\ProyectoMall\ProyectoMall\obj\Debug\ProyectoMall.exe
+C:\Users\Ignacio\documents\visual studio 2017\Projects\ProyectoMall\ProyectoMall\obj\Debug\ProyectoMall.pdb
