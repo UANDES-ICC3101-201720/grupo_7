@@ -1,0 +1,59 @@
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\bin\Debug\ProyectoMall3.exe.config
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\bin\Debug\ProyectoMall3.exe
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\bin\Debug\ProyectoMall3.pdb
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.csprojResolveAssemblyReference.cache
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\obj\Debug\MainWindow.g.cs
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\obj\Debug\App.g.cs
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3_MarkupCompile.cache
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3_MarkupCompile.lref
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\obj\Debug\MainWindow.baml
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.g.resources
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.Properties.Resources.resources
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.csproj.GenerateResource.Cache
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.csproj.CoreCompileInputs.cache
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.exe
+c:\users\ignap\source\repos\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.pdb
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\bin\Debug\ProyectoMall3.exe.config
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\bin\Debug\ProyectoMall3.exe
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\bin\Debug\ProyectoMall3.pdb
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\MainWindow.g.cs
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\App.g.cs
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3_MarkupCompile.cache
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3_MarkupCompile.lref
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\MainWindow.baml
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.g.resources
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.Properties.Resources.resources
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.csproj.GenerateResource.Cache
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.exe
+C:\Users\Ignacio\Documents\Visual Studio 2017\Projects\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.pdb
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.csprojResolveAssemblyReference.cache
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\MainWindow.g.cs
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\App.g.cs
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3_MarkupCompile.cache
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3_MarkupCompile.lref
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.exe
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.pdb
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\bin\Debug\ProyectoMall3.exe.config
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\bin\Debug\ProyectoMall3.exe
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\bin\Debug\ProyectoMall3.pdb
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\MainWindow.baml
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.g.resources
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.Properties.Resources.resources
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.csproj.GenerateResource.Cache
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMall3\ProyectoMall3\obj\Debug\ProyectoMall3.csproj.CoreCompileInputs.cache
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\bin\Debug\ProyectoMall3.exe.config
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\bin\Debug\ProyectoMall3.exe
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\bin\Debug\ProyectoMall3.pdb
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\obj\Debug\ProyectoMall3.csprojResolveAssemblyReference.cache
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\obj\Debug\MainWindow.g.cs
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\obj\Debug\App.g.cs
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\obj\Debug\ProyectoMall3_MarkupCompile.cache
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\obj\Debug\ProyectoMall3_MarkupCompile.lref
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\obj\Debug\MainWindow.baml
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\obj\Debug\ProyectoMall3.g.resources
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\obj\Debug\ProyectoMall3.Properties.Resources.resources
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\obj\Debug\ProyectoMall3.csproj.GenerateResource.Cache
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\obj\Debug\ProyectoMall3.csproj.CoreCompileInputs.cache
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\obj\Debug\ProyectoMall3.exe
+C:\Users\ignap\source\repos\ProyectoMallFinal\ProyectoMall3\ProyectoMallFinal\ProyectoMall3\obj\Debug\ProyectoMall3.pdb
