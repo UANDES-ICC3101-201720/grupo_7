@@ -1,0 +1,9 @@
+qo9872i21efoh
+dia,1
+dinero,-100
+iniciando pisos 
+1 11
+locales 
+default1 comida rapida 1 1 1 1 0 0 -101 -101 1
+fin_locales 
+terminando
