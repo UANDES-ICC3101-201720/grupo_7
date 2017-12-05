@@ -1,0 +1,72 @@
+dia: 1
+Cantidad de Clientes Recepcionados: 794
+Cantidad de Cliente Promedio por Dia: 397
+Ganancia total del dia: 942912
+Ganancia del dia:471456
+Local con mayor ganancia total: El Ropa Pulenta
+Local con menor ganancia total: ninguno
+Local con mayor cantidad de clientes: El Ropa Pulenta
+Local con menor cantidad de clientes: ninguno
+dia: 2
+Cantidad de Clientes Recepcionados: 30
+Cantidad de Cliente Promedio por Dia: 15
+Ganancia total del dia: -96028
+Ganancia del dia:-48014
+Local con mayor ganancia total: ninguno
+Local con menor ganancia total: asd
+Local con mayor cantidad de clientes: El Ropa Pulenta
+Local con menor cantidad de clientes: ninguno
+dia: 3
+Cantidad de Clientes Recepcionados: 575
+Cantidad de Cliente Promedio por Dia: 287
+Ganancia total del dia: 638945
+Ganancia del dia:319472
+Local con mayor ganancia total: El Ropa Pulenta
+Local con menor ganancia total: ninguno
+Local con mayor cantidad de clientes: El Ropa Pulenta
+Local con menor cantidad de clientes: ninguno
+dia: 4
+Cantidad de Clientes Recepcionados: 375
+Cantidad de Cliente Promedio por Dia: 187
+Ganancia total del dia: 365573
+Ganancia del dia:182786
+Local con mayor ganancia total: El Ropa Pulenta
+Local con menor ganancia total: ninguno
+Local con mayor cantidad de clientes: El Ropa Pulenta
+Local con menor cantidad de clientes: ninguno
+dia: 5
+Cantidad de Clientes Recepcionados: 436
+Cantidad de Cliente Promedio por Dia: 218
+Ganancia total del dia: 472324
+Ganancia del dia:236162
+Local con mayor ganancia total: El Ropa Pulenta
+Local con menor ganancia total: ninguno
+Local con mayor cantidad de clientes: El Ropa Pulenta
+Local con menor cantidad de clientes: ninguno
+dia: 6
+Cantidad de Clientes Recepcionados: 1127
+Cantidad de Cliente Promedio por Dia: 563
+Ganancia total del dia: 1383216
+Ganancia del dia:691608
+Local con mayor ganancia total: El Ropa Pulenta
+Local con menor ganancia total: ninguno
+Local con mayor cantidad de clientes: El Ropa Pulenta
+Local con menor cantidad de clientes: ninguno
+dia: 7
+Cantidad de Clientes Recepcionados: 705
+Cantidad de Cliente Promedio por Dia: 352
+Ganancia total del dia: 824152
+Ganancia del dia:412076
+Local con mayor ganancia total: El Ropa Pulenta
+Local con menor ganancia total: ninguno
+Local con mayor cantidad de clientes: El Ropa Pulenta
+Local con menor cantidad de clientes: ninguno
+dia: 8
+Cantidad de Clientes Recepcionados: 411
+Cantidad de Cliente Promedio por Dia: 205
+Ganancia total del dia: 419519
+Ganancia del dia:209759
+Local con mayor ganancia total: El Ropa Pulenta
+Local con menor ganancia total: ninguno
+Local con mayor cantidad de clientes: El Ropa Pulenta
+Local con menor cantidad de clientes: ninguno
